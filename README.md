@@ -70,10 +70,10 @@ I am an **AI/ML Engineer** with deep expertise in constructing and deploying pro
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnun0027&theme=dracula" width="100%" alt="Vishnu's Stats" />
+        <img src="https://github-readme-stats-one.vercel.app/api?username=vishnun0027&show_icons=true&theme=dracula&count_private=true&layout=compact" width="100%" alt="Vishnu's Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishnun0027&theme=dracula" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=vishnun0027&layout=compact&theme=dracula&hide=makefile" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
