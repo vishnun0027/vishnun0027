@@ -73,7 +73,7 @@ I am an **AI/ML Engineer** with deep expertise in constructing and deploying pro
         <img src="https://github-readme-stats-one.vercel.app/api?username=vishnun0027&show_icons=true&theme=dracula&count_private=true&layout=compact" width="100%" alt="Vishnu's Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=vishnun0027&layout=compact&theme=dracula&hide=makefile" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=vishnun0027&layout=compact&theme=dracula&hide=makefile" width="300px" alt="Top Languages" />
       </td>
     </tr>
   </table>
