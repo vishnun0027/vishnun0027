@@ -67,8 +67,8 @@ I am an **AI/ML Engineer** with deep expertise in constructing and deploying pro
 ### 📊 GitHub Powerups
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnun0027&show_icons=true&theme=dracula&count_private=true" alt="Vishnu's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnun0027&layout=compact&theme=dracula&hide=html,css" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnun0027&theme=dracula" alt="Vishnu's Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishnun0027&theme=dracula" alt="Top Languages" />
 </div>
 
 <div align="center">
