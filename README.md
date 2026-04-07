@@ -1,7 +1,7 @@
 # Vishnu N (vishnun0027)
 
 <div align="center">
-  <img src="./github_profile_banner.png" width="100%" alt="Vishnu N Profile Banner">
+  <img src="./github_profile_banner.png" height="200" width="100%" style="object-fit: cover; border-radius: 10px;" alt="Vishnu N Profile Banner">
   
   <br/>
 
@@ -67,12 +67,17 @@ I am an **AI/ML Engineer** with deep expertise in constructing and deploying pro
 ### 📊 GitHub Powerups
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnun0027&theme=dracula" alt="Vishnu's Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishnun0027&theme=dracula" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnun0027&theme=dracula" alt="GitHub Streak" />
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishnun0027&theme=dracula" width="100%" alt="Vishnu's Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishnun0027&theme=dracula" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnun0027&theme=dracula" width="100%" alt="GitHub Streak" />
 </div>
 
 ---
